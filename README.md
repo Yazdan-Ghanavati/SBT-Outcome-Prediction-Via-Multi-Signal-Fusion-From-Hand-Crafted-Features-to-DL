@@ -57,5 +57,3 @@ In critical care, predicting whether a patient can be successfully weaned from m
 - Applying regularization, batch normalization, and hyperparameter tuning.
 - Expanding dataset size to better leverage deep learning.
 
-## 📂 Repository Structure
-
