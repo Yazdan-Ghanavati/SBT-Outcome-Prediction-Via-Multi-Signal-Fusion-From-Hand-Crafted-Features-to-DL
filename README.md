@@ -2,7 +2,6 @@
 
 > **Author:** Yazdan Ghanavati  
 > **Course:** E-Health Laboratory – University of Padova  
-> **Lab Number:** 5
 
 ## 📌 Overview
 
